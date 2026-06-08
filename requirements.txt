@@ -1,4 +1,0 @@
-flask==2.3.3
-nest_asyncio==1.5.8
-python-telegram-bot==20.3
-telethon==1.34.0
