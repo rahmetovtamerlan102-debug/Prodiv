@@ -1,0 +1,6 @@
+flask==2.3.3
+nest_asyncio==1.5.8
+python-telegram-bot==20.3
+telethon==1.38.0
+git+https://github.com/CAPTHAIN/telegram_gift_fetcher.git
+requests==2.31.0
