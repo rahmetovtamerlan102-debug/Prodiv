@@ -1,0 +1,3 @@
+aiogram==3.10.0
+git+https://github.com/LonamiWebs/Telethon.git@master
+cachetools==5.5.0
